@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.btn {
+    @apply rounded-2xl py-3 px-7 uppercase tracking-wider
+}
